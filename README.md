@@ -38,7 +38,8 @@ Developed by: Gobathi P
 RegisterNumber: 212222080017
 */
 
-```
+
+```py
 import numpy as np
 import matplotlib.pyplot as plt
 x=np.array(eval(input()))
